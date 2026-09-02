@@ -49,19 +49,19 @@ The platform provides:
 
 **Journey builder with topological flow graph, persona distribution, and simulation controls:**
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 **Simulation results — KPIs, channel cost breakdown, and Monte Carlo conversion distribution:**
 
-![Simulation Results](images/simulation_results.png)
+![Simulation Results](simulation_results.png)
 
 **AI Journey Optimizer & Diagnostician — automated diagnosis and optimized journey suggestions:**
 
-![AI Diagnosis](images/ai_diagnosis.png)
+![AI Diagnosis](ai_diagnosis.png)
 
 **A/B test comparison between two journey configurations:**
 
-![A/B Test Comparison](images/ab_test_comparison.png)
+![A/B Test Comparison](ab_test_comparison.png)
 
 ---
 
@@ -173,8 +173,6 @@ Example output generated from a simulation run (10,000-user synthetic cohort):
 
 ---
 
-
-
 ## ▶️ Run Application
 
 ```bash
@@ -198,3 +196,4 @@ streamlit run dashboard.py
 **İrem İnç**
 Computer Engineer
 Python • Machine Learning • Data Analytics • Simulation Systems
+
